@@ -15,7 +15,6 @@ when the users hit the Endpoint i.e.curl http://localhost:5266/feed/user123  we 
 
 <img width="1701" height="284" alt="image" src="https://github.com/user-attachments/assets/e3b396d5-b021-4ec9-8030-3b63c3b79770" />
 
-
 Cache hit and cache miss cases. 
 
 <img width="1724" height="498" alt="image" src="https://github.com/user-attachments/assets/3b9e8e6f-7dd7-400d-80de-702d035b091a" />
